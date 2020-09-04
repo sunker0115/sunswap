@@ -1,7 +1,7 @@
 {
   "name": "@uniswap/interface",
   "description": "Uniswap Interface",
-  "homepage": "yarn ",
+  "homepage": "https://sunker0115.github.io/sunswap",
   "private": true,
   "devDependencies": {
     "@ethersproject/experimental": "^5.0.1",
